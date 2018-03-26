@@ -28,6 +28,6 @@ Its construction is made from PMMA, also known as acrylic, which is easily cut o
 1. Use laser cutter to cutout all the parts in `priezor.dxf` file. You will need two antenna pieces, two of each handle part except the middle one (with the teeth – those are for cable strain relief)
 2. Assemble antenna by connecting two cutouts with screws with the plastic spacer in the middle. This should create a 3mm hole between the plastic parts for winding the coil itself.
 3. Wind the copper wire on the antenna. We do 333 turns, but you can experiment with more or less – generally, more turns = more sensitivity, but the frequency response changes too. Fix the windings with a hot glue gun, leaving the two ends of the loop at the side with three holes.
-4. Assemble the handle in "sandwich" fashion (the widest part with the teeth goes in the middle), fit the cable in the hole.
+4. Assemble the handle in "sandwich" fashion (the widest part with the teeth goes in the middle). Antenna is attached through the three holes present in the front and bottom cover piece. Fit the cable in the hole.
 5. Solder the ends of the enameled wire coming from the antenna to the microphone cable to its *signal conductors*. Use higher temperatures to melt of the protective coating of the wire, because otherwise the solder won't stick to it. You can also use a bit of sandpaper to remove it. Leave its shield unconnected at this end. Cable shielding is *only* connected to pin 1 at the XLR connector.
 6. Finish the construction with mounting the final cover plate.
