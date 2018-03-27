@@ -31,3 +31,5 @@ Its construction is made from PMMA, also known as acrylic, which is easily cut o
 4. Assemble the handle in "sandwich" fashion (the widest part with the teeth goes in the middle). Antenna is attached through the three holes present in the front and bottom cover piece. Fit the cable in the hole.
 5. Solder the ends of the enameled wire coming from the antenna to the microphone cable to its *signal conductors*. Use higher temperatures to melt of the protective coating of the wire, because otherwise the solder won't stick to it. You can also use a bit of sandpaper to remove it. Leave its shield unconnected at this end. Cable shielding is *only* connected to pin 1 at the XLR connector.
 6. Finish the construction with mounting the final cover plate.
+
+![Side-view of the Priezor sandwich](https://i.imgur.com/30mo3tf.jpg)
