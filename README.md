@@ -1,5 +1,7 @@
 # Priezor
 
+![Priezor assembly](https://i.imgur.com/LmRQBPm.png)
+
 Quick guide for building DIY Priezor – open source electromagnetic antenna.
 
 Essentially, Priezor is a very long loop of enameled copper wire wound on a heptagonal antenna with a handle.
