@@ -1,6 +1,6 @@
 # Priezor
 
-![Priezor assembly](https://i.imgur.com/LmRQBPm.png)
+![Priezor assembly](https://i.imgur.com/AbM15wv.png)
 
 Quick guide for building DIY Priezor – open source electromagnetic antenna.
 
