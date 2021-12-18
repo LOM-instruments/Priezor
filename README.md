@@ -13,7 +13,7 @@ Its construction is made from PMMA, also known as acrylic, which is easily cut o
 * at least 45 x 20 cm piece of 3mm acrylic
 * 7 M3 x 12mm screws (metal or plastic) – for the antenna
 * 7 M3 x 18mm screws (metal) – for the handle and connection points
-* 10 M3 plastic spacers
+* 10 M3 plastic spacers (3mm high, width doesn't matter)
 * 7 M3 plastic nuts
 * 7 M3 metal nuts
 * 1.5m microphone cable
